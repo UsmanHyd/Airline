@@ -1,0 +1,15 @@
+CUSTOMER RATING:      * * * * *
+CUSTOMER EXPERIENCE:  <<< EXCELLENT >>>
+
+
+CUSTOMER RATING:       *
+CUSTOMER EXPERIENCE:  <<< DISAPPOINTING >>>
+SUGGESTION:            be patent
+We are extremely sorry for the bad experience. Hope you will have a good one next time.
+
+
+CUSTOMER RATING:      * * *
+CUSTOMER EXPERIENCE:  <<< SOMEWHAT SATISFACTORY >>>
+SUGGESTION:           be good
+
+
